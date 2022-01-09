@@ -17,17 +17,18 @@
 
 <h2></h2>
 <h3 align="left"><b>Languages and Tools:</b></h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg" alt="js" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="reactjs" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 <h3 align="left">Reach me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avisikta-majumdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/avisikta-majumdar/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/avisiktamajumdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/avisiktamajumdar" height="30" width="40" /></a>
-<a href="https://fb.com/avisikta.19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/avisikta.19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/idofavisikta_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/idofavisikta_19" height="30" width="40" /></a>
-<a href="https://leetcode.com/avisikta/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/avisikta/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohiuddinsikder/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/mohiuddinsikder/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
 </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avisikta-majumdar&show_icons=true&locale=en" alt="avisikta-majumdar" />
