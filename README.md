@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning :- JavaScript
 - 🤔 I’m looking for help with :- Web Development
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
-- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/mohiuddinsikder/) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=idofmohi.info20@gmail.com&su=SUBJECT&body=BODY&tf=1)
+- 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/mohiuddinsikder/) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohi.info20@gmail.com&su=SUBJECT&body=BODY&tf=1)
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avisikta-majumdar&label=Profile%20views&color=0e75b6&style=flat-square" alt="avisikta-majumdar" /> </p>
