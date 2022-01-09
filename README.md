@@ -29,10 +29,7 @@
 <h3 align="left">Reach me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohiuddinsikder/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/mohiuddinsikder/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/idofavisikta19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/idofavisikta19/" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=avisikta-majumdar&show_icons=true&locale=en" alt="avisikta-majumdar" />
- </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avisikta-majumdar&show_icons=true&title_color=3a0e8b&locale=en&layout=compact" alt="avisikta-majumdar" /></p>
  
  <br>
  <br></br></br><br>
