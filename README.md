@@ -4,8 +4,8 @@
 **Mohi Uddin-Sikder/Mihi Uddin-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on :- JavaScript
-- 🌱 I’m currently learning :- JavaScript
-- 🤔 I’m looking for help with :- Web Development
+- 🌱 I’m currently learning :- Data Structure and Algorithm
+- 🤔 I’m looking for help with :- Software Engineer
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/mohiuddinsikder/) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohi.info20@gmail.com&su=SUBJECT&body=BODY&tf=1)
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
