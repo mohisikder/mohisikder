@@ -3,9 +3,9 @@
 <!--
 **Mohi Uddin-Sikder/Mihi Uddin-Majumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on :- PHP | Laravel
+- 🔭 I’m currently working on :- PHP | Laravel | JavaScript
 - 🌱 I’m currently learning :- PHP, Laravel core principles, Vuejs.
-- 🤔 I’m looking for help with :- Software Engineer/Web Development
+- 🤔 I’m looking for help with :- Full-Stack Development
 - 💬 Ask me about:- Anything ( not my personal life , duhh !! )
 - 📫 How to reach me:  ✔️[Linkedin](https://www.linkedin.com/in/mohiuddinsikder/) ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohi.info20@gmail.com&su=SUBJECT&body=BODY&tf=1)
 - ⚡ Fun fact:  Right now I'm looking at you, 'cause you're looking at me.
